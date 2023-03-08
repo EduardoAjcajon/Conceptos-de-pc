@@ -1,2 +1,2 @@
 # Conceptos de PC
-##Prueba Corata 1
+## Prueba Corta 1
