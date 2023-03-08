@@ -19,6 +19,10 @@
     text-align: right;
     width: 60rem;
 }
+.imagen{
+    width: 70rem;
+    height: auto;
+}
 .texto1{
     text-align: justify;
     width: 75rem;
